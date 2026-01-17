@@ -8,7 +8,7 @@ on:
 
 env:
   REGISTRY: docker.io
-  IMAGE_NAME: ${{ secrets.DOCKERHUB_USERNAME }}/your-app-name
+  IMAGE_NAME: ${{ secrets.DOCKERHUB_USERNAME }}/gitops-demo
 
 jobs:
   lint:
