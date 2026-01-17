@@ -1,6 +1,6 @@
 image:
   repository: mohassan218/gitops-demo
-  tag: latest
+  tag: 82eb18d642f195a98e1176de77e563031218392d
   pullPolicy: IfNotPresent
 
 replicaCount: 1
