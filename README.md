@@ -5,7 +5,7 @@ This repository is a hands-on GitOps demo project built to practice and demonstr
 
 It is intentionally minimal and focuses on core GitOps concepts rather than production-level complexity.
 
-This project is the practical companion to an article that explains GitOps concepts, motivations, and workflows: [click me]().
+This project is the practical companion to an article that explains GitOps concepts, motivations, and workflows: [click me](https://medium.com/@m.hassan.def/gitops-for-every-team-996d6f650362).
 
 
 - Application code lives in `dev` and `prod`.
