@@ -1,6 +1,6 @@
 image:
   repository: mohassan218/gitops-demo
-  tag: bb0c996db515d0e87368d83e48f38c0941c6c2e7
+  tag: 6d9fc1a1bdf6961bf996cbca9f9bcb2b88826ea2
   pullPolicy: IfNotPresent
 
 replicaCount: 1
